@@ -8,7 +8,7 @@ import java.util.Scanner;
  * fuer diesen wird ein Symbol automatisch festgelegt. Der Gewinner des Matches
  * wird ermittelt und auf der Konsole ausgegeben.
  * Beim Erzeugen eines Objektes wird die Anzahl der Matches oder Runden
- * festgelegt.
+ * festgelegt..
  *
  * @author Alexander Mavrin (s53615@beuth-hochschule.de)
  * @author Andreas Haaf (s77906@beuth-hochschule.de)
