@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Alexander Mavrin (s53615@beuth-hochschule.de)
  * @author Andreas Haaf (s77906@beuth-hochschule.de)
- * @version 1.01, 16.01.2021!
+ * @version 1.01, 16.01.2021!!
  */
 
 public class SteinScherePapier {
